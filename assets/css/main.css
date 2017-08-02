@@ -747,7 +747,7 @@
 /* Basic */
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/overlay.png"), url("images/blue1.jpeg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -1566,15 +1566,20 @@
 				}
 		
 		/* Education */
-			#ed {
+/*			#ed {
 				font-size: 16px;
-				font-weight: bolder;
-			}
+				font-weight: ;
+			}*/
 /*
 			#edu{
 				margin-left: 50px;
 			}*/
 
+			/* Connect */
+	/*		#icons {
+				margin-left: 50px;
+			}
+*/
 		/* Footer */
 
 			#footer {
