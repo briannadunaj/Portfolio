@@ -1564,6 +1564,16 @@
 				#me header > p {
 					font-size: 1.25em;
 				}
+		
+		/* Education */
+			#ed {
+				font-size: 16px;
+				font-weight: bolder;
+			}
+/*
+			#edu{
+				margin-left: 50px;
+			}*/
 
 		/* Footer */
 
